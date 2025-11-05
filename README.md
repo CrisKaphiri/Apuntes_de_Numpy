@@ -7,6 +7,7 @@ Este repositorio contiene apuntes personales organizados sobre NumPy, enfocado e
 | Sección | Tema | Ejemplo |
 |--------|------|---------|
 | 1 | Creación de arrays y tipos | `01_creacion_arrays.ipynb` |
+| 2 | Información de un array | `02_informacion_arrays.ipynb` |
 | 2 | Operaciones matemáticas | `.ipynb` |
 | 3 | Indexación y slicing | `.ipynb` |
 | 4 | Broadcasting | `.ipynb` |
@@ -25,3 +26,13 @@ Este repositorio contiene apuntes personales organizados sobre NumPy, enfocado e
 | `np.arange()`      | `np.arange(0, 10, 2)`  | Crea un vector a partir de un rango |
 | `np.linspace()`    | `np.linspace(0, 1, 5)` | Crea un vector de N puntos entre dos valores |
 | `np.random.rand()` | `np.random.rand(3, 4)` | Crea una matriz con valores entre 1 y 0 |
+
+## 2. Información de un array
+
+| Método | Ejemplo | Descripción |
+| ------ | ------- | ----------- |
+| `.dtype`    | `a.dtype`   | Tipo de dato |
+| `.ndim`     | `a.ndim`    | N° de dimensiones |
+| `.shape`    | `a.shape`   | Forma del array |
+| `.size`     | `a.size`    | Total de elementos |
+| `np.info()` | `np.info()` | Información de array |
