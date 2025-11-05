@@ -36,3 +36,20 @@ Este repositorio contiene apuntes personales organizados sobre NumPy, enfocado e
 | `.shape`    | `a.shape`   | Forma del array |
 | `.size`     | `a.size`    | Total de elementos |
 | `np.info()` | `np.info()` | Información de array |
+
+**NumPy** tiene algunos tipos de datos adicionales y se refiere a ellos con un solo carácter, como `i` para enteros, `u` para enteros sin signos, etc.
+
+| Carácter | Tipo de dato |
+| -------- | ------------ |
+| `i` | integer |
+| `b` | boolean |
+| `u` | unsigned integer |
+| `f` | float |
+| `c` | complex float |
+| `m` | timedelta |
+| `M` | datetime |
+| `O` | object |
+| `S` | string |
+| `U` | unicode string |
+| `V` | void |
+
