@@ -29,13 +29,12 @@ Este repositorio contiene apuntes personales organizados sobre NumPy, enfocado e
 
 ## 2. Información de un array
 
-| Método | Ejemplo | Descripción |
+| Atributo | Ejemplo | Descripción |
 | ------ | ------- | ----------- |
 | `.dtype`    | `a.dtype`   | Tipo de dato |
 | `.ndim`     | `a.ndim`    | N° de dimensiones |
 | `.shape`    | `a.shape`   | Forma del array |
 | `.size`     | `a.size`    | Total de elementos |
-| `np.info()` | `np.info()` | Información de array |
 
 **NumPy** tiene algunos tipos de datos adicionales y se refiere a ellos con un solo carácter, como `i` para enteros, `u` para enteros sin signos, etc.
 
