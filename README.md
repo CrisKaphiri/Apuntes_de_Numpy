@@ -9,8 +9,8 @@ Este repositorio contiene apuntes personales organizados sobre NumPy, enfocado e
 | 1 | Creación de arrays y tipos | `01_creacion_arrays.ipynb` |
 | 2 | Información de un array    | `02_informacion_arrays.ipynb` |
 | 3 | Indexación y Slicing       | `03_indexacion.ipynb` |
-| 4 | Operaciones básicas        | `.ipynb` |
-| 5 | Estadística básica         | `.ipynb` |
+| 4 | Operaciones básicas        | `04_operaciones.ipynb` |
+| 5 | Estadística básica         | `05_estadistica.ipynb` |
 
 ## 1. Crear array o matríz
 
